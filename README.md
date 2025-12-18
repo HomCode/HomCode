@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me by my email: homerfernandez399@gmai.com
 - ⚡ Fun fact: Start today to change the world!
+- Finished this 1st sem using ReactJS, Python, Frontends:HTML, Javascript, CSS
+- IDE's used: Pycharm and VSCode
 
 <!---
 HomCode/HomCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
